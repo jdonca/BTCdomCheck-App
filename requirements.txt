@@ -1,0 +1,7 @@
+csv
+datetime
+requests
+zipfile
+os
+re
+numpy
