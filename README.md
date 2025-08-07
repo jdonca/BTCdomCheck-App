@@ -3,7 +3,7 @@
     #### Description: Final project for CS50P
 
 # Introduction
-This is the final project for Harvard X program CS50P, 'Introduction to Python'. My very first programming course, at age 39 and with a 3 yr old son, I finally put hands on to the scary color lines and dream of writing good and useful code.
+This is the final project for Harvard X program CS50P, 'Introduction to Python'.
 #
 
 ## Table of contents
