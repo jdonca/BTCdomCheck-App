@@ -15,7 +15,7 @@ This is the final project for Harvard X program CS50P, 'Introduction to Python'.
 * [Features](#features)
 * [Silly things that slowed me down](#silly-things-that-slowed-me-down)
 * [Project status](#project-status)
-* [Demo!]
+* [Demo!](##demo)
 #
 ## Libraries
 The following libraries has been used for this project:
